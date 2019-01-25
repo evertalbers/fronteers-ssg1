@@ -35,10 +35,10 @@
 
 
 # 404s
-# [[redirects]]
-#   from = "/number*"
-#   to = "/edition-not-found"
-#   status = 404
+[[redirects]]
+  from = "/number*"
+  to = "/edition-not-found"
+  status = 404
 
 [[redirects]]
   from = "*"
