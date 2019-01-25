@@ -6,6 +6,8 @@ title: My meetup is amazing
 
 ## A small step for a man, a large chunk of the staging budget
 
+#### A subheader added in the second staging action
+
 This is a change first made in the staging branch.
 
 ## Editions
