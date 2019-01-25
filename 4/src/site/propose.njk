@@ -7,7 +7,7 @@ title: Propose a meetup
 
 <p>Use this form to submit a suggestion for a meetup.</p>
 
-<form name="suggest-meetup" netlify-honeypot="full-name" action="/thanks" netlify>
+<form name="suggest-meetup-2" netlify-honeypot="full-name" action="/thanks" netlify>
   <p class="honey">
     <label>Your full name: <input name="full-name"></label>
   </p>
@@ -22,6 +22,17 @@ title: Propose a meetup
   <p>
     <label for="comments">Comments</label>
     <textarea name="comments" id="comments"></textarea>
+  </p>
+   <p>
+    <label for="colours">Coloration</label>
+      <select name="color" id="colours">   
+        <option value="tan">Windswept Sand Dune</option>   
+        <option value="green">Lush Forest</option>   
+        <option value="blue">Turbulent Waters</option>
+        <option value="black">Deep Night</option>
+      </select> 
+
+Read more: https://html.com/forms/#ixzz5dcJOMsVw
   </p>
   <p>
     <button type="submit" class="btn">Suggest a meetup</button>
