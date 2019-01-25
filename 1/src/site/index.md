@@ -4,7 +4,7 @@ title: My meetup is amazing
 ---
 
 
-## Is it amazing?
+## A small step for a man, a large chunk of the space budget
 
 Yes it is. Look at the different editions!
 

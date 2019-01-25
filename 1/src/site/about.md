@@ -4,7 +4,7 @@ title: About this site
 ---
 
 
-## About
+## Olifanten kunnen heel romantisch zijn
 
-Some info about this site.
+Some info about this site. 
 
