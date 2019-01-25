@@ -3,7 +3,7 @@ layout: layouts/base.njk
 title: Editions
 ---
 
-## Listings
+## Green <span style="color: green">Listings</span>
 
 All the editions past and future
 

@@ -4,7 +4,7 @@ title: My meetup is amazing
 ---
 
 
-## Is it amazing?
+## And now for something entirely <span style="color: green">green</span>
 
 Yes it is. Look at the different editions!
 
